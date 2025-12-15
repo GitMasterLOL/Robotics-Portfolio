@@ -5,7 +5,7 @@ This repository indexes my major hands-on engineering projects in robotics, embe
 ---
 
 ## 1. Vyadh Robotic Arm (Team Project)
-🔗 Main Repo:[link](https://github.com/RobArmGit/RobArm)
+🔗 Main Repo: [link](https://github.com/RobArmGit/RobArm)
 
 **My role & contributions:**
 - Led the development of a 5-DOF robotic arm for Team Vyadh’s Mars rover, implementing a modular ROS2-based control system on ESP32 modules with closed-loop PID achieving sub 1° precision
