@@ -8,9 +8,17 @@ This repository indexes my major hands-on engineering projects in robotics, embe
 🔗 Main Repo: [link](https://github.com/RobArmGit/RobArm)
 
 **My role & contributions:**
-- Led the development of a 5-DOF robotic arm for Team Vyadh’s Mars rover, implementing a modular ROS2-based control system on ESP32 modules with closed-loop PID achieving sub 1° precision
-- Integrated encoder feedback, sensors, and motor drivers with custom 3D-printed mounts, improving mechanical stability, cable management, and reliability
-- Collaborated on mechanical design, guiding component selection, placement, and system integration to enhance performance and maintainability
+- Led the development of a 6-DOF remotely controlled robotic arm with 10kg payload for an international Mars rover
+competition, implementing a modular control architecture using ESP32 modules with bluetooth communication for
+hardware interfacing, achieving sub-1° positional precision across the full workspace of 1m radius
+- Architected a fully custom ROS2 message interface layer from scratch, enforcing a unified communication standard
+using custom interface types across all arm subsystems to improve code readability and cross-team development
+consistency
+- Integrated encoder feedback and motor drivers with custom 3D-printed mounts designed for reliability and rapid field
+swap-out, cutting assembly time and improving thermal reliability under competition conditions
+- Guided and mentored a domain of 5 juniors across electronics and software subteams, defining component selection
+criteria and integration standards that improved system modularity and eliminated cross-subsystem conflicts during
+final assembly
 
 **Key skills demonstrated:**
 Mechatronics integration, CAD, PCB design, embedded systems, control systems
