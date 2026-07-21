@@ -3,9 +3,29 @@
 This repository indexes my major hands-on engineering projects in robotics, embedded systems, PCB design, and mechanical CAD.
 
 ---
+## 1. Offroad UGV mechanical design (Internship)
+🔗 Repo: [link](https://github.com/GitMasterLOL/offroad-ugv-mechanical-design.git)
 
-## 1. Vyadh Robotic Arm (Team Project)
-🔗 Main Repo: [link](https://github.com/RobArmGit/RobArm)
+**Project Overview:**
+Offroad capable Umanned Ground Vehicle built for last mile military deliveries and logistics
+
+**My contributions:**
+- Designed and manufactured a complete 100 kg-payload off-road UGV from scratch, replacing a scrapped prototype
+with a 60 kg aluminium T-slot and sheet metal chassis rated for a 1.3 kW peak drivetrain load, developed as a
+quieter, lower-cost alternative to trucks for army border logistics
+- Engineered a mild steel trailing arm suspension and chain drive transmission with custom motor and sprocket
+mounts, validating arm deformation under full payload through FEA in Ansys and iterating geometry in Onshape
+before fabrication
+- Led fabrication and assembly of all mechanical subsystems alongside supporting power and electronics integration,
+delivering the rover for public demonstration at the National Defence Conclave (T-Works, Hyderabad) to positive
+stakeholder response
+
+**Key skills demonstrated:**
+Parametric CAD, Structural analysis, Design for Manufacturing and Assembly
+
+---
+## 2. Vyadh Robotic Arm (Team Project)
+🔗 Repo: [link](https://github.com/RobArmGit/RobArm)
 
 **My role & contributions:**
 - Led the development of a 6-DOF remotely controlled robotic arm with 10kg payload for an international Mars rover
@@ -24,8 +44,7 @@ final assembly
 Mechatronics integration, CAD, PCB design, embedded systems, control systems
 
 ---
-
-## 2. Portable Oscilloscope PCB
+## 3. Portable Oscilloscope PCB
 🔗 Repo: [PocketScope](https://github.com/GitMasterLOL/PocketScope)
 
 **Project overview:**
@@ -43,8 +62,7 @@ PCB design, mixed-signal electronics, schematic capture, hardware debugging mind
 Housing design, Communication system, GUI design for signal visualization
 
 ---
-
-## 3. Motor Driver Enclosure with Active Cooling
+## 4. Motor Driver Enclosure with Active Cooling
 🔗 Repo: [Motor Driver Enclosure](https://github.com/GitMasterLOL/Motor-Driver-enclosure)
 
 **Project overview:**
